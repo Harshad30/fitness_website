@@ -1,0 +1,32 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+.sub_m1{
+  width: 600px;
+  height: 500px;
+  border-radius: 45px;
+  margin-left: 500px;
+  background-color: lightgrey;
+}
+
+.sub_m1 img{
+  width: 500px;
+  height: 400px;
+  border-radius: 45px;
+  margin-left: 50px;
+}
+
+.sub_m1 h1{
+  text-align: center;
+  text-decoration: underline;
+  color: black;
+}
+.sub_m2 p{
+  font-size: 30px;
+}
+
+.sub_m3 p{
+  font-size: 30px;
+}
